@@ -12,7 +12,7 @@ function App() {
     <div>
       <span>This is a PromiseBuilder</span>
       <PromiseBuilder promise={promise}>
-        {(snapshot) => <div>{snapshot}</div>}
+        {(snapshot) => <div>{snapshot.toString()}</div>}
       </PromiseBuilder>
     </div>
   );
