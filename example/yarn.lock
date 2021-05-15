@@ -5029,7 +5029,7 @@ flush-write-stream@^1.0.0:
     inherits "^2.0.3"
     readable-stream "^2.3.6"
 
-"flutter_2react_components@file:./..":
+"flutter-2react-components@file:./..":
   version "0.1.0"
 
 follow-redirects@^1.0.0:
